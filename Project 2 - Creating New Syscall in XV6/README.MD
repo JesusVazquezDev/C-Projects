@@ -1,6 +1,3 @@
-# List of changes made to add a new SYSCALL in XV6
-#### Coming soon... 
-
 # The objectives of this project are:
 
 #### Gain comfort looking through more substantial code bases written by others in which you do not need to understand every line
