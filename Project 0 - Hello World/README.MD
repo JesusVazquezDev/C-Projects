@@ -8,7 +8,6 @@
 # Objective:
 
 #### Re-familiarize yourself with the C programming language.
-#### Check permissions of your `turnin` directory on CSL machines.
 #### Learn Unix tools such as vim, gcc, etc.
 #### This is a very basic assignment to help you get started with C programming and compiling/running code on remote machines.
 
