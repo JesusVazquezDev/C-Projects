@@ -10,9 +10,9 @@
 
 # Objectives
 
-##### Understand existing code for performing context-switches in the xv6 kernel.
-##### Implement a basic lottery scheduler that boosts the priority of well-behaving processes.
-##### Modify how sleep is implemented in xv6 to match our scheduler. 
-##### Implement system calls that set/extract process state.
-##### Use the provided user-level programs to empirically validate the fair and proportional share properties of a lottery scheduler.
-##### Gain familiarity in working on a large codebase in a group.
+##### - Understand existing code for performing context-switches in the xv6 kernel.
+##### - Implement a basic lottery scheduler that boosts the priority of well-behaving processes.
+##### - Modify how sleep is implemented in xv6 to match our scheduler. 
+##### - Implement system calls that set/extract process state.
+##### - Use the provided user-level programs to empirically validate the fair and proportional share properties of a lottery scheduler.
+##### - Gain familiarity in working on a large codebase in a group.
